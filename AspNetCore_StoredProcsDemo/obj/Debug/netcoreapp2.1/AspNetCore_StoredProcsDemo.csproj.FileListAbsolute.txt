@@ -1,0 +1,17 @@
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\bin\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.deps.json
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\bin\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.runtimeconfig.json
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\bin\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.runtimeconfig.dev.json
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\bin\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.dll
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\bin\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.pdb
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.csprojAssemblyReference.cache
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.AssemblyInfoInputs.cache
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.AssemblyInfo.cs
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.csproj.CoreCompileInputs.cache
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.RazorAssemblyInfo.cache
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.RazorAssemblyInfo.cs
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.RazorTargetAssemblyInfo.cache
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.dll
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.pdb
+C:\Users\mig_2\source\repos\netcore\AspNetCore_StoredProcsDemo\AspNetCore_StoredProcsDemo\obj\Debug\netcoreapp2.1\AspNetCore_StoredProcsDemo.genruntimeconfig.cache
